@@ -47,6 +47,7 @@ float interpolacjaNewtona(vector<Punkt> &wezly, float x, vector<float> *wspolczy
     float p_0 = 1.0;
     float p_k = 1.0;
     float b_0 = wezly[0].y;
+    wspolczynniki->push_back(b_0);
     float b_k = 0.0;
     float mianownik = 1;
     float Wn = p_0 * b_0;
