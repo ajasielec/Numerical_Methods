@@ -1,0 +1,4 @@
+﻿  pivoting.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab4_pivoting\pivoting.cpp(68,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab4_pivoting\pivoting.cpp(124,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MN_lab4_pivoting.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab4_pivoting\x64\Debug\MN_lab4_pivoting.exe
