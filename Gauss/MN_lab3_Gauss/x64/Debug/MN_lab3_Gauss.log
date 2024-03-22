@@ -1,0 +1,4 @@
+﻿  gauss.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN-lab3_Gauss\gauss.cpp(58,33): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN-lab3_Gauss\gauss.cpp(84,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MN_lab3_Gauss.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\MN-lab3_Gauss\x64\Debug\MN_lab3_Gauss.exe
