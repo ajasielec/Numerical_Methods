@@ -1,0 +1,12 @@
+﻿  MN_lab1.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,35): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,35): warning C4244:         with
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,35): warning C4244:         [
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,35): warning C4244:             _Ty=double
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,35): warning C4244:         ]
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,24): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,24): warning C4244:         with
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,24): warning C4244:         [
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,24): warning C4244:             _Ty=double
+C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\MN_lab_1\MN_lab1.cpp(120,24): warning C4244:         ]
+  MN_lab_1.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\MN_lab_1\x64\Debug\MN_lab_1.exe
