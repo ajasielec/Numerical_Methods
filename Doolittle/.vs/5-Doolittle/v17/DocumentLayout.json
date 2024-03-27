@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\doolittle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|solutionrelative:doolittle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\A1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|solutionrelative:A1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\B1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4C08A71-3324-46A7-8B13-C01CFBDD2E3F}|5-Doolittle.vcxproj|solutionrelative:B1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doolittle.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\doolittle.cpp",
+              "RelativeDocumentMoniker": "doolittle.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\doolittle.cpp",
+              "RelativeToolTip": "doolittle.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAK0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T16:52:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B1.txt",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\B1.txt",
+              "RelativeDocumentMoniker": "B1.txt",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\B1.txt",
+              "RelativeToolTip": "B1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-26T16:52:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A1.txt",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\A1.txt",
+              "RelativeDocumentMoniker": "A1.txt",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\5-Doolittle\\A1.txt",
+              "RelativeToolTip": "A1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-26T16:52:24.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
