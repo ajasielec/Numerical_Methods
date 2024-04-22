@@ -1,0 +1,6 @@
+﻿  jacobi.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\6-Jacobi\jacobi.cpp(42,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\6-Jacobi\jacobi.cpp(53,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\6-Jacobi\jacobi.cpp(71,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\6-Jacobi\jacobi.cpp(129,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  6-Jacobi.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\6-Jacobi\x64\Debug\6-Jacobi.exe
