@@ -1,0 +1,18 @@
+﻿  kwadratury.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(16,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(47,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(52,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(54,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(56,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(57,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(58,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(61,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(62,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(63,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(64,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(66,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(68,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\kwadratury.cpp(69,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  8-Gauss-Lagendre_quadratures.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\8-Gauss-Lagendre_quadratures\x64\Debug\8-Gauss-Lagendre_quadratures.exe

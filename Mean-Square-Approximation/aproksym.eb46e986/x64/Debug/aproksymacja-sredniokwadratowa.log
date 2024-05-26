@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ania\source\repos\Metody_Numeryczne\9-aproksymacja-sredniokwadratowa\main.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Metody_Numeryczne\9-aproksymacja-sredniokwadratowa\main.cpp(109,29): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  aproksymacja-sredniokwadratowa.vcxproj -> C:\Users\Ania\source\repos\Metody_Numeryczne\9-aproksymacja-sredniokwadratowa\x64\Debug\aproksymacja-sredniokwadratowa.exe

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\8-Gauss-Lagendre_quadratures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE3CF0-D1A8-49DC-A5EE-796CF28FF39D}|8-Gauss-Lagendre_quadratures.vcxproj|C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\8-Gauss-Lagendre_quadratures\\kwadratury.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54EE3CF0-D1A8-49DC-A5EE-796CF28FF39D}|8-Gauss-Lagendre_quadratures.vcxproj|solutionrelative:kwadratury.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\7-calkowanie_numeryczne\\calkowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calkowanie.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\7-calkowanie_numeryczne\\calkowanie.cpp",
+              "RelativeDocumentMoniker": "..\\7-calkowanie_numeryczne\\calkowanie.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\7-calkowanie_numeryczne\\calkowanie.cpp",
+              "RelativeToolTip": "..\\7-calkowanie_numeryczne\\calkowanie.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T19:21:10.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kwadratury.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\8-Gauss-Lagendre_quadratures\\kwadratury.cpp",
+              "RelativeDocumentMoniker": "kwadratury.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Metody_Numeryczne\\8-Gauss-Lagendre_quadratures\\kwadratury.cpp",
+              "RelativeToolTip": "kwadratury.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T19:18:04.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
